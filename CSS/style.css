@@ -143,5 +143,5 @@ footer {
     margin: 150px 20% 0 20%;
     padding-top: 100px;
     padding-bottom: 100px;
-    border-top: 1px solid black;
+    border-top: 1px dotted #6B8E23;
 }
